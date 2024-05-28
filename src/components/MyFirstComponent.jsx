@@ -8,7 +8,7 @@ export const MyFirstComponent = () => {
   return (
     <div >
       <h3>el numero de {counter}</h3>
-      <button className="button" type='submit'onClick={()=>{ setCouter(counter +1)}}>Click contador</button>
+      <button className="button" type='submit'onClick={()=>{ setCouter(counter +1)}}>Click Contador</button>
       
     </div>
   )
