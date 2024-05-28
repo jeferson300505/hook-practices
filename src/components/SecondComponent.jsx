@@ -18,7 +18,7 @@ export const SecondComponent = () => {
     <div>
       <h3>Componente: SecondComponent</h3>
       <p>{ name }</p>
-      <button className='button2' onClick={changeName}>Cambiar nombre</button>
+      <button className='button2' onClick={changeName}>Cambiar Nombre</button>
     </div>
   )
 }
